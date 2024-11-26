@@ -2,9 +2,9 @@
 
 msg.value in the loop cause repeat withdraw，(*3.5billion dollar*)
 
-contract: ![contract source code](https://etherscan.io/address/0x4c4564a1FE775D97297F9e3Dc2e762e0Ed5Dda0e#code)
+contract: [contract source code](https://etherscan.io/address/0x4c4564a1FE775D97297F9e3Dc2e762e0Ed5Dda0e#code)
 
-blog: ![relative blog](https://www.paradigm.xyz/2021/08/two-rights-might-make-a-wrong/)
+blog: [relative blog](https://www.paradigm.xyz/2021/08/two-rights-might-make-a-wrong/)
 
 ## run
 `yarn install`
