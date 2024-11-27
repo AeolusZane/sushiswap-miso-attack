@@ -6,13 +6,13 @@ contract: [contract source code](https://etherscan.io/address/0x4c4564a1FE775D97
 
 blog: [relative blog](https://www.paradigm.xyz/2021/08/two-rights-might-make-a-wrong/)
 
-## run
+## Run
 `yarn install`
 `npx hardhat test` to run the test
 
 check the test script in the path `./test/Lock.js`, you will find the process
 
-task introduction
+## Task Introduction
 
 部署合约时，调用者有0个token，合约地址有5个token
 
