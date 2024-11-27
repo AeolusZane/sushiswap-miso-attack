@@ -12,7 +12,7 @@ blog: [relative blog](https://www.paradigm.xyz/2021/08/two-rights-might-make-a-w
 
 check the test script in the path `./test/Lock.js`, you will find the process
 
-## Task Introduction
+## Task Description
 
 部署合约时，调用者有0个token，合约地址有5个token
 
