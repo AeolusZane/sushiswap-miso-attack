@@ -43,7 +43,7 @@ describe("Lock", function () {
       await tx.wait();
       console.log(`🐱调用者调用后的token数量`, await lock.balanceOf((await hre.ethers.provider.getSigner()).address));
 
-      console.log('使用1wei转了5个token到合约地址中')
+      console.log('使用1wei提取了5个token到账号中')
     });
   });
 });
