@@ -1,6 +1,6 @@
 ## Miso's Contract Audit Analysis
 
-msg.value in the loop lead to repeat withdraw，(*3.5billion dollar*)
+msg.value in the loop leads to repeated withdraw，(*3.5billion dollar*)
 
 contract: [contract source code](https://etherscan.io/address/0x4c4564a1FE775D97297F9e3Dc2e762e0Ed5Dda0e#code)
 
